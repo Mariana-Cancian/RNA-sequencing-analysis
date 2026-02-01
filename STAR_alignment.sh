@@ -1,6 +1,6 @@
 #!/bin/bash
 
-### Example variables for dmoj26 (D. moj. sonorensis)
+### variable names
 
 declare -a libraries=("Tub_Mos1_A"
 "Tub_Mos1_B"
